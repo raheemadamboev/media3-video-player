@@ -13,7 +13,7 @@
         android:theme="@style/Theme.Media3VideoPlayer"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".presentation.activity.Main"
             android:exported="true"
             android:theme="@style/Theme.Media3VideoPlayer">
             <intent-filter>

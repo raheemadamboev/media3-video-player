@@ -1,4 +1,4 @@
-package xyz.teamgravity.media3videoplayer.ui.theme
+package xyz.teamgravity.media3videoplayer.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
